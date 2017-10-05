@@ -5,6 +5,11 @@
 #include <avr/io.h>
 #include <util/delay.h>
 
+/*
+// IN CLASS EXCERSICE
+*/
+
+
 int main()
 {
 uint16_t i;
